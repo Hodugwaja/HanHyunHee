@@ -1,0 +1,22 @@
+{
+  "name": "hyunhee",
+  "version": "1.0.0",
+  "description": "HyunHeeBot with discord.js",
+  "main": "HyunHee.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cropMr/HanHyunHee.git"
+  },
+  "author": "HoduGwaja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cropMr/HanHyunHee/issues"
+  },
+  "homepage": "https://github.com/cropMr/HanHyunHee#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
